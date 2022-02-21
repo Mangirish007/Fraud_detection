@@ -17,3 +17,6 @@ def model4():
     print("model 3")
 
 print("use perfect model1")
+
+
+print("avaiii")
